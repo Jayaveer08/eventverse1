@@ -1,32 +1,6 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" width="280" height="80">
-  <defs>
-    <linearGradient id="iconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0e7368"/>
-      <stop offset="100%" stop-color="#f97316"/>
-    </linearGradient>
-    <clipPath id="round">
-      <rect width="72" height="72" rx="16" ry="16"/>
-    </clipPath>
-  </defs>
-
-  <!-- Icon background -->
-  <rect x="0" y="4" width="72" height="72" rx="16" ry="16" fill="url(#iconGrad)"/>
-
-  <!-- Lucide Ticket icon centered in icon box (original 24x24, scaled 2.0, offset to center) -->
-  <g transform="translate(12, 16) scale(2.0)" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
-    <path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"/>
-    <line x1="13" y1="5" x2="13" y2="7"/>
-    <line x1="13" y1="11" x2="13" y2="13"/>
-    <line x1="13" y1="17" x2="13" y2="19"/>
-  </g>
-
-  <!-- "Event" bold dark -->
-  <text x="86" y="52" font-size="32" font-weight="700" font-family="Arial, sans-serif" fill="#1a1a1a">Event</text>
-  <!-- "Verse" in brand orange -->
-  <text x="179" y="52" font-size="32" font-weight="700" font-family="Arial, sans-serif" fill="#f97316">Verse</text>
-</svg>
+<img src="https://raw.githubusercontent.com/Jayaveer08/eventverse1/main/public/favicon.svg" width="90" height="90" alt="EventVerse Logo" />
 
 # EventVerse
 
