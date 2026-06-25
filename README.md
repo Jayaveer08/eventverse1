@@ -202,7 +202,7 @@ The `vercel.json` configuration rewrites all routes to `index.html` for correct 
 
 ## 👨‍💻 Author
 
-**Jayaveer N**
+**Nallapati Jayaveer**
 Final Year B.Tech — Computer Science (AI & ML)
 Sreyas Institute of Engineering and Technology, Hyderabad
 
