@@ -1,8 +1,23 @@
 <div align="center">
 
-<img src="https://eventverse-lime.vercel.app/favicon.ico" width="72" height="72" alt="EventVerse Logo" />
+<svg width="220" height="56" viewBox="0 0 220 56" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded square icon with olive-to-dark gradient -->
+  <defs>
+    <linearGradient id="iconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7a8c3a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2b3a2b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="4" width="48" height="48" rx="12" ry="12" fill="url(#iconGrad)"/>
+  <!-- Ticket/coupon icon in white -->
+  <text x="24" y="33" font-size="22" text-anchor="middle" fill="white" font-family="serif">🎟</text>
+  <!-- "Event" in near-black bold -->
+  <text x="62" y="37" font-size="26" font-weight="700" font-family="Arial, sans-serif" fill="#1a1a1a">Event</text>
+  <!-- "Verse" in orange #F97316 -->
+  <text x="131" y="37" font-size="26" font-weight="700" font-family="Arial, sans-serif" fill="#F97316">Verse</text>
+</svg>
 
-# 🎟️ EventVerse
+# EventVerse
 
 ### Discover. Book. Experience.
 
@@ -202,7 +217,7 @@ The `vercel.json` configuration rewrites all routes to `index.html` for correct 
 
 ## 👨‍💻 Author
 
-**Nallapati Jayaveer**
+**Jayaveer N**
 Final Year B.Tech — Computer Science (AI & ML)
 Sreyas Institute of Engineering and Technology, Hyderabad
 
