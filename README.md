@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Jayaveer08/eventverse1/main/public/favicon.svg" width="90" height="90" alt="EventVerse Logo" />
 
-# Event
+# EventVerse
 
 ### Discover. Book. Experience.
 
